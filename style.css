@@ -145,6 +145,11 @@ body {
   top: 70%;
   left: 50%;
 }
+.top-centered {
+  position: absolute;
+  bottom: 30%;
+  left: 50%;
+}
 .container {
   position: relative;
   text-align: center;
