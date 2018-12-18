@@ -43,7 +43,7 @@ body {
     background: Snow;
     margin: 0.5em 0;
     padding: 0.3em;
-    border-right: 1em solid #4d4d4d }
+    border-left: 1em solid #4d4d4d }
   ul.a {
     list-style-type: circle; }
   ul.navbar a {
