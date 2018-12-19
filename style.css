@@ -20,7 +20,7 @@ body {
     padding: 0;
     margin: 0;
     position: absolute;
-    top: 10em;
+    top: 100em;
     right: 1em;
     width: 9em 
 }
@@ -39,6 +39,7 @@ body {
     margin: 0.5em 0;
     padding: 0.3em;
     border-right: 1em solid #4d4d4d }
+
   ul.navbar1 li {
     background: Snow;
     margin: 0.5em 0;
