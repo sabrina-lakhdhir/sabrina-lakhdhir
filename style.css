@@ -6,6 +6,37 @@ body {
     color: black;
     background-color:  LavenderBlush
 }
+/* Navbar Container*/
+.navbar {
+  position: absolute;
+  margin: 20px;
+  bottom: 0;
+  left: 25%;
+  width: auto;
+}
+
+/* Navbar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+	
+/*
   ul.navbar {
     list-style-type: none;
     padding: 0;
@@ -24,6 +55,7 @@ body {
     right: 1em;
     width: 9em 
 }
+*/
   h1 {
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif
@@ -34,6 +66,7 @@ body {
           SunSans-Regular, sans-serif
     color: gray 
 }
+/*
   ul.navbar li {
     display: block;
     background: Snow;
@@ -63,7 +96,7 @@ color: Snow; }
 ul.navbar1 li:hover {
 background-color: #7e7e7e;
 color: Snow; }
-
+*/
   ul.a {
     list-style-type: circle; }
   ul.navbar a {
@@ -252,7 +285,7 @@ body, html {
 
 .heroImage {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("sabrina2.JPG");
-	height: 95%;
+	height: 90%;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
