@@ -340,11 +340,11 @@ body, html {
 }
 
 .imageContainer:hover .image {
-  opacity: 1;
+  opacity: 0.2;
 }
 
 .imageContainer: hover .imageHover {
-  opacity: 0.2;
+  opacity: 1;
 }
 
 .imageContainerHoverText {
