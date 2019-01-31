@@ -317,11 +317,11 @@ body, html {
 }
 
 .image {
-  opacity: 1;
+  opacity: 0.2;
   display: block;
   width: 100%;
   height: auto;
-  transition: .5s ease;
+  transition: 1s ease;
   backface-visibility: hidden;
 }
 .imageContainer {
@@ -329,8 +329,8 @@ body, html {
  /* width: 50%;*/
 }
 .imageHover {
-  transition: .5s ease;
-  opacity: 0;
+  transition: 1s ease;
+  opacity: 1;
   position: absolute;
   top: 50%;
   left: 50%;
