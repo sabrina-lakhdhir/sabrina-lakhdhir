@@ -36,67 +36,17 @@ body {
   color: black;
 }
 	
-/*
-  ul.navbar {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    position: absolute;
-    top: 1em;
-    left: 1em;
-    width: 9em 
-}
-  ul.navbar1 {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    position: absolute;
-    top: 15em;
-    right: 1em;
-    width: 9em 
-}
-*/
   h1 {
     font-family: Helvetica, Geneva, Arial,
-          SunSans-Regular, sans-serif
-    color: gray 
+          SunSans-Regular, sans-serif;
+    color: gray ;
 }
   h2 {
     font-family: Helvetica, Geneva, Arial,
-          SunSans-Regular, sans-serif
-    color: gray 
+          SunSans-Regular, sans-serif;
+    color: gray ;
 }
-/*
-  ul.navbar li {
-    display: block;
-    background: Snow;
-    margin: 0.5em 0;
-    padding: 0.3em;
-    border-right: 1em solid #4d4d4d }
 
-ul.navbar li:hover {
-background-color: #7e7e7e;
-color: Snow; }
-
-  ul.navbar1 li {
-    display:block;
-    background: Snow;
-    margin: 0.5em 0;
-    padding: 0.3em;
-    border-left: 1em solid #4d4d4d }
-
-	ul.navbar li .active {
-		background-color: #7e7e7e;
-		color: Snow;
-	}
-		ul.navbar1 li .active {
-		background-color: #7e7e7e;
-		color: Snow;
-	}
-ul.navbar1 li:hover {
-background-color: #7e7e7e;
-color: Snow; }
-*/
   ul.a {
     list-style-type: circle; }
   ul.navbar a {
@@ -332,8 +282,8 @@ body, html {
   transition: 1s ease;
   opacity: 1;
   position: absolute;
-  /*top: 50%;
-  left: 50%;*/
+  top: 50%;
+  left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
