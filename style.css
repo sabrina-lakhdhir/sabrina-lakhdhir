@@ -309,3 +309,49 @@ body, html {
 	transform: translate(-50%, -50%);
 	color: white;
 }
+
+.textBox {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.imageContainer {
+  position: relative;
+  width: 50%;
+}
+.imageHover {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.imageContainer:hover .image {
+  opacity: 0.3;
+}
+
+.imageContainer: hover .imageHover {
+  opacity: 1;
+}
+
+.imageContainerHoverText {
+  background-color: black;
+  color: white;
+  font-size: 17px;
+  padding: 16px 32px;
+}
+
+
