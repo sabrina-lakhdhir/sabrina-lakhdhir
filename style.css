@@ -41,7 +41,7 @@ body {
   ul.a {
     list-style-type: circle; }
   ul.navbar a {
-    text-decoration: none }
+    text-decoration: none; }
   a:link {
     color: white }
   a:visited {
@@ -235,6 +235,14 @@ body, html {
 
 .heroImageArt {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("sabrina6.jpg");
+	height: 90%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+.heroImageCPSC {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("sabrina7.jpg");
 	height: 90%;
 	background-position: center;
 	background-repeat: no-repeat;
