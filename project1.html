@@ -209,33 +209,158 @@ Deliverables: <br>
 	<script src="portfolio.js"></script>
 	<div class="textBox">
 		<p><center>
-		ADD INFO
+		*insert in-class design critique feedback* 
 		</center></p>
+		<h4><b><center> Slide to Unlock Version 1: Multi Touch</center></b></h4>
 		<h4> <center>Refined Sketches:</center></h4>
-		<p> <center>
-			Due to the nature of this project having two parts, half of our refined sketches refer to the touch prototype, the other half refer to the sensor prototype. 
-			</center> </p>
+		<div class="slideshow-container">
+			<!--<div class=".main-background"> -->
+				<div class="mySlides fade">
+					<img src="refined1-1.jpg" style = "width: 50%" class="center">
+				</div>
+						<!--<div class=".main-background"> -->
+				<div class="mySlides fade">
+					<img src="refined1-2.jpg" style = "width: 50%" class="center">
+				</div>
+			<!--<div class=".main-background"> -->
+				<div class="mySlides fade">
+					<img src="refined1-3.jpg" style = "width: 50%" class="center">
+				</div>
+						<!--<div class=".main-background"> -->
+				<div class="mySlides fade">
+					<img src="refined1-4.jpg" style = "width: 50%" class="center">
+				</div>
+						<!--<div class=".main-background"> -->
+				<div class="mySlides fade">
+					<img src="refined1-5.jpg" style = "width: 50%" class="center">
+				</div>
+		</div>
+	<br>
+	<div style="text-align:center">
+		<span class="dot" onclick="currentSlide(1)"></span> 
+		<span class="dot" onclick="currentSlide(2)"></span> 
+		<span class="dot" onclick="currentSlide(3)"></span> 
+		<span class="dot" onclick="currentSlide(4)"></span> 
+		<span class="dot" onclick="currentSlide(5)"></span>  
+	</div>
+		<script>
+			var slideIndex = 1;
+			showSlides(slideIndex);
+			function plusSlides(n) {
+				showSlides(slideIndex += n);
+			}
+			function currentSlide(n) {
+				showSlides(slideIndex = n);
+			}
+			function showSlides(n) {
+				var i;
+				var slides = document.getElementsByClassName("mySlides");
+				var dots = document.getElementsByClassName("dot");
+				if (n > slides.length) {
+					slideIndex = 1
+				}
+				if (n < 1) {
+					slideIndex = slides.length
+				}
+				for (i = 0; i < slides.length; i++) {
+						slides[i].style.display = "none";  
+				}
+				for (i = 0; i < dots.length; i++) {
+						dots[i].className = dots[i].className.replace(" active", "");
+				}
+				slides[slideIndex-1].style.display = "block";  
+				dots[slideIndex-1].className += " active";
+			}
+		</script>
+		<script src="portfolio.js"></script>
 		<center>
-			<img src="refined1-1.jpg" style="width: 70%"> <br>
-			<img src="refined1-2.jpg" style="width: 70%"> <br>
-			<img src="refined1-3.jpg" style="width: 70%"> <br>
+			*insert small explanation regarding chosen design and design choices*
 		</center>
 	
-		<h4> <center>Video of the Working Touch Prototype:</center></h4>
+		<h4> <center>Video:</center></h4>
 		<video width="500" height="300" controls class="center">
 			<source src="screenrecording1.mov" type="video/mov">
 			Your browser does not support the video tag.
 		</video> 
-		<h4> <center>Video of the Working Sensor Prototype:</center></h4>
-		<video width="500" height="300" controls class="center">
-			<source src="#screenrecording1.mov" type="video/mov">
-			Your browser does not support the video tag.
-		</video> 
 
-	<h4> <center>Touch Prototype Code Download:</center></h4>
-	<center> <a href="https://github.com/sabrina-lakhdhir/SlideToUnlock"> Click here to download our code.</a> 
-		<h4> <center>Sensor Prototype Code Download:</center></h4>
-		<center> <a href="#https://github.com/sabrina-lakhdhir/SlideToUnlock"> Click here to download our code.</a> 
+	<h4> <center>Code Download:</center></h4>
+	<center> <a href="https://github.com/sabrina-lakhdhir/SlideToUnlock"> Click here to download our code.</a> </center>
+
+
+	<h4><b><center> Slide to Unlock Version 2: Sensors</center></b></h4>
+	<h4> <center>Refined Sketches:</center></h4>
+	<div class="slideshow-container">
+		<!--<div class=".main-background"> -->
+			<div class="mySlides fade">
+				<img src="refined1-6.jpg" style = "width: 50%" class="center">
+			</div>
+					<!--<div class=".main-background"> -->
+			<div class="mySlides fade">
+				<img src="refined1-7.jpg" style = "width: 50%" class="center">
+			</div>
+		<!--<div class=".main-background"> -->
+			<div class="mySlides fade">
+				<img src="refined1-8.jpg" style = "width: 50%" class="center">
+			</div>
+					<!--<div class=".main-background"> -->
+			<div class="mySlides fade">
+				<img src="refined1-9.jpg" style = "width: 50%" class="center">
+			</div>
+					<!--<div class=".main-background"> -->
+			<div class="mySlides fade">
+				<img src="refined1-10.jpg" style = "width: 50%" class="center">
+			</div>
+	</div>
+<br>
+<div style="text-align:center">
+	<span class="dot" onclick="currentSlide(1)"></span> 
+	<span class="dot" onclick="currentSlide(2)"></span> 
+	<span class="dot" onclick="currentSlide(3)"></span> 
+	<span class="dot" onclick="currentSlide(4)"></span> 
+	<span class="dot" onclick="currentSlide(5)"></span>  
+</div>
+	<script>
+		var slideIndex = 1;
+		showSlides(slideIndex);
+		function plusSlides(n) {
+			showSlides(slideIndex += n);
+		}
+		function currentSlide(n) {
+			showSlides(slideIndex = n);
+		}
+		function showSlides(n) {
+			var i;
+			var slides = document.getElementsByClassName("mySlides");
+			var dots = document.getElementsByClassName("dot");
+			if (n > slides.length) {
+				slideIndex = 1
+			}
+			if (n < 1) {
+				slideIndex = slides.length
+			}
+			for (i = 0; i < slides.length; i++) {
+					slides[i].style.display = "none";  
+			}
+			for (i = 0; i < dots.length; i++) {
+					dots[i].className = dots[i].className.replace(" active", "");
+			}
+			slides[slideIndex-1].style.display = "block";  
+			dots[slideIndex-1].className += " active";
+		}
+	</script>
+	<script src="portfolio.js"></script>
+	<center>
+		*insert small explanation regarding chosen design and design choices*
+	</center>
+
+	<h4> <center>Video:</center></h4>
+	<video width="500" height="300" controls class="center">
+		<source src="#screenrecording1.mov" type="video/mp4">
+		Your browser does not support the video tag.
+	</video> 
+
+	<h4> <center>Code Download:</center></h4>
+	<center> <a href="#https://github.com/sabrina-lakhdhir/SlideToUnlock"> Click here to download our code.</a> </center>
 </body>
 <address> <center>
 	<a href="https://www.facebook.com/sabrina.lakhdhir" class="fa fa-facebook"></a>
