@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Sarabun:300,300i,400,700');
 
 html {
-    background: purple;
+    /*background: purple;*/
     min-width: 1280px;
     min-height: 720px;
     overflow: auto;
