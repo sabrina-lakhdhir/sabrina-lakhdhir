@@ -1,0 +1,1382 @@
+[
+  {
+    "name": "University of Calgary Undergraduate Enrolment",
+    "family": null
+  },
+  {
+    "name": "Arts",
+    "family": "University of Calgary Undergraduate Enrolment",
+    "year": "2014-2015"
+  },
+  {
+    "name": "Ancient and Medieval History",
+    "family": "Arts",
+    "totalStudents": 14,
+    "female": 8,
+    "male":  6,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Anthropology",
+    "family": "Arts",
+    "totalStudents": 84,
+    "female": 64,
+    "male":  20,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Archaeology",
+    "family": "Arts",
+    "totalStudents": 94,
+    "female": 63,
+    "male":  31,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Canadian Studies",
+    "family": "Arts",
+    "totalStudents": 8,
+    "female": 5,
+    "male":  3,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Communication and Culture",
+    "family": "Arts",
+    "totalStudents": 37,
+    "female": 22,
+    "male":  15,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Communication Studies",
+    "family": "Arts",
+    "totalStudents": 495,
+    "female": 354,
+    "male":  141,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Composition",
+    "family": "Arts",
+    "totalStudents": 3,
+    "female": 0,
+    "male":  3,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Dance",
+    "family": "Arts",
+    "totalStudents": 63,
+    "female": 59,
+    "male":  4,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Development Studies",
+    "family": "Arts",
+    "totalStudents": 69,
+    "female": 51,
+    "male":  18,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Drama",
+    "family": "Arts",
+    "totalStudents": 76,
+    "female": 38,
+    "male":  38,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Earth Science",
+    "family": "Arts",
+    "totalStudents": 55,
+    "female": 21,
+    "male":  34,
+    "year": "2014-2015"
+  },
+  {
+    "name": "East Asia",
+    "family": "Arts",
+    "totalStudents": 14,
+    "female": 8,
+    "male":  6,
+    "year": "2014-2015"
+  },
+  {
+    "name": "East Asian Language Studies",
+    "family": "Arts",
+    "totalStudents": 28,
+    "female": 16,
+    "male":  12,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Economics",
+    "family": "Arts",
+    "totalStudents": 443,
+    "female": 128,
+    "male":  315,
+    "year": "2014-2015"
+  },
+  {
+    "name": "English",
+    "family": "Arts",
+    "totalStudents": 292,
+    "female": 219,
+    "male":  73,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Film Studies",
+    "family": "Arts",
+    "totalStudents": 43,
+    "female": 22,
+    "male":  21,
+    "year": "2014-2015"
+  },
+  {
+    "name": "French",
+    "family": "Arts",
+    "totalStudents": 36,
+    "female": 30,
+    "male":  6,
+    "year": "2014-2015"
+  },
+  {
+    "name": "General Humanities",
+    "family": "Arts",
+    "totalStudents": 1,
+    "female": 0,
+    "male":  1,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Geography",
+    "family": "Arts",
+    "totalStudents": 111,
+    "female": 41,
+    "male":  70,
+    "year": "2014-2015"
+  },
+  {
+    "name": "German",
+    "family": "Arts",
+    "totalStudents": 6,
+    "female": 3,
+    "male":  3,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Greek and Roman Studies",
+    "family": "Arts",
+    "totalStudents": 19,
+    "female": 13,
+    "male":  6,
+    "year": "2014-2015"
+  },
+  {
+    "name": "History and Philosophy of Science",
+    "family": "Arts",
+    "totalStudents": 2,
+    "female": 0,
+    "male":  2,
+    "year": "2014-2015"
+  },
+  {
+    "name": "History",
+    "family": "Arts",
+    "totalStudents": 154,
+    "female": 85,
+    "male":  69,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Integrated Studies",
+    "family": "Arts",
+    "totalStudents": 30,
+    "female": 19,
+    "male":  11,
+    "year": "2014-2015"
+  },
+  {
+    "name": "International Indigenous Studies",
+    "family": "Arts",
+    "totalStudents": 7,
+    "female": 6,
+    "male":  1,
+    "year": "2014-2015"
+  },
+  {
+    "name": "International Relations",
+    "family": "Arts",
+    "totalStudents": 213,
+    "female": 144,
+    "male":  69,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Italian Studies",
+    "family": "Arts",
+    "totalStudents": 2,
+    "female": 2,
+    "male":  0,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Latin American Studies",
+    "family": "Arts",
+    "totalStudents": 7,
+    "female": 3,
+    "male":  4,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Law and Society",
+    "family": "Arts",
+    "totalStudents": 274,
+    "female": 177,
+    "male":  197,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Linguistics",
+    "family": "Arts",
+    "totalStudents": 105,
+    "female": 87,
+    "male":  18,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Linguistics and Language",
+    "family": "Arts",
+    "totalStudents": 23,
+    "female": 22,
+    "male":  1,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Multidisciplinary>",
+    "family": "Arts",
+    "totalStudents": 142,
+    "female": 77,
+    "male":  65,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Music",
+    "family": "Arts",
+    "totalStudents": 28,
+    "female": 20,
+    "male":  22,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Not Declared",
+    "family": "Arts",
+    "totalStudents": 639,
+    "female": 356,
+    "male":  283,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Performance",
+    "family": "Arts",
+    "totalStudents": 23,
+    "female": 11,
+    "male":  12,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Philosophy",
+    "family": "Arts",
+    "totalStudents": 69,
+    "female": 27,
+    "male":  42,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Political Science",
+    "family": "Arts",
+    "totalStudents": 346,
+    "female": 136,
+    "male":  210,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Primatology",
+    "family": "Arts",
+    "totalStudents": 5,
+    "female": 3,
+    "male":  2,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Psychology",
+    "family": "Arts",
+    "totalStudents": 569,
+    "female": 459,
+    "male":  110,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Religious Studies",
+    "family": "Arts",
+    "totalStudents": 17,
+    "female": 10,
+    "male":  7,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Religious Studies and App Ethics",
+    "family": "Arts",
+    "totalStudents": 2,
+    "female": 1,
+    "male":  1,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Russian",
+    "family": "Arts",
+    "totalStudents": 3,
+    "female": 0,
+    "male":  3,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Science, Technology and Society",
+    "family": "Arts",
+    "totalStudents": 37,
+    "female": 14,
+    "male":  23,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Social and Cultural Anthropology",
+    "family": "Arts",
+    "totalStudents": 89,
+    "female": 67,
+    "male":  22,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Sociology",
+    "family": "Arts",
+    "totalStudents": 456,
+    "female": 353,
+    "male":  103,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Spanish",
+    "family": "Arts",
+    "totalStudents": 17,
+    "female": 9,
+    "male":  8,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Urban Studies",
+    "family": "Arts",
+    "totalStudents": 200,
+    "female": 89,
+    "male":  111,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Visual Studies",
+    "family": "Arts",
+    "totalStudents": 98,
+    "female": 74,
+    "male":  24,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Women's Studies",
+    "family": "Arts",
+    "totalStudents": 12,
+    "female": 9,
+    "male":  3,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Cumming School of Medicine",
+    "family": "University of Calgary Undergraduate Enrolment",
+    "year": "2014-2015"
+  },
+  {
+    "name": "Anaesthesia",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 37,
+    "female": 24,
+    "male":  13,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Bioinformatics",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 25,
+    "female": 8,
+    "male":  17,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Biomedical Sciences",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 244,
+    "female": 121,
+    "male":  123,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Cardiac Surgery",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 4,
+    "female": 1,
+    "male":  3,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Clinical Neurosciences",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 48,
+    "female": 15,
+    "male":  33,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Community Health",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 15,
+    "female": 9,
+    "male":  6,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Community Rehabilitation",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 141,
+    "female": 129,
+    "male":  12,
+    "year": "2014-2015"
+  },
+  {
+    "name": "General",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 6,
+    "female": 6,
+    "male":  0,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Dermatology",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 15,
+    "female": 11,
+    "male":  4,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Diagnostic Radiology",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 44,
+    "female": 15,
+    "male":  29,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Emergency Medicine",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 20,
+    "female": 7,
+    "male":  13,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Family Medicine",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 216,
+    "female": 130,
+    "male":  86,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Gynecology",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 6,
+    "female": 5,
+    "male":  1,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Health and Society",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 59,
+    "female": 49,
+    "male":  10,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Internal Medicine",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 200,
+    "female": 107,
+    "male":  93,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Leaders in Medicine",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 40,
+    "female": 23,
+    "male":  17,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Medical Genetics",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 7,
+    "female": 6,
+    "male":  1,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Medicine",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 462,
+    "female": 274,
+    "male":  188,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Neurology",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 8,
+    "female": 4,
+    "male":  4,
+    "year": "2014-2015"
+
+  },
+  {
+    "name": "Obstetrics and Gynecology",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 37,
+    "female": 30,
+    "male":  7,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Opthalmology",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 11,
+    "female": 3,
+    "male":  8,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Otolaryngology",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 7,
+    "female": 2,
+    "male":  5,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Paediatrics",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 85,
+    "female": 61,
+    "male":  24,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Palliative Care Medicine",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 4,
+    "female": 2,
+    "male":  2,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Pathology",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 29,
+    "female": 16,
+    "male":  13,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Physical Medicine and Rehabilitation",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 10,
+    "female": 3,
+    "male":  7,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Plastic Surgery",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 10,
+    "female": 5,
+    "male":  5,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Psychiatry",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 42,
+    "female": 27,
+    "male":  15,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Radiation Oncology",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 8,
+    "female": 2,
+    "male":  6,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Surgery",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 89,
+    "female": 23,
+    "male":  66,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Thoracic Surgery",
+    "family": "Cumming School of Medicine",
+    "totalStudents": 2,
+    "female": 1,
+    "male":  1,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Haskayne School of Business",
+    "family": "University of Calgary Undergraduate Enrolment",
+    "year": "2014-2015"
+  },
+  {
+    "name": "Accounting",
+    "family": "Haskayne School of Business",
+    "totalStudents": 848,
+    "female": 439,
+    "male":  409,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Business Process Management",
+    "family": "Haskayne School of Business",
+    "totalStudents": 33,
+    "female": 14,
+    "male":  19,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Energy Management",
+    "family": "Haskayne School of Business",
+    "totalStudents": 68,
+    "female": 28,
+    "male":  40,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Entrepreneurship and Innovation",
+    "family": "Haskayne School of Business",
+    "totalStudents": 53,
+    "female": 19,
+    "male":  34,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Finance",
+    "family": "Haskayne School of Business",
+    "totalStudents": 412,
+    "female": 119,
+    "male":  293,
+    "year": "2014-2015"
+  },
+  {
+    "name": "General",
+    "family": "Haskayne School of Business",
+    "totalStudents": 525,
+    "female": 218,
+    "male":  307,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Hotel and Resort Management",
+    "family": "Haskayne School of Business",
+    "totalStudents": 33,
+    "female": 22,
+    "male":  11,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Human Resources and Orgnaization Dynamics",
+    "family": "Haskayne School of Business",
+    "totalStudents": 85,
+    "female": 71,
+    "male":  14,
+    "year": "2014-2015"
+  },
+  {
+    "name": "International Business",
+    "family": "Haskayne School of Business",
+    "totalStudents": 99,
+    "female": 62,
+    "male":  37,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Management Information Systems",
+    "family": "Haskayne School of Business",
+    "totalStudents": 39,
+    "female": 10,
+    "male":  29,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Marketing",
+    "family": "Haskayne School of Business",
+    "totalStudents": 188,
+    "female": 123,
+    "male":  65,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Operations Management",
+    "family": "Haskayne School of Business",
+    "totalStudents": 90,
+    "female": 42,
+    "male":  48,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Personal Financial Planning",
+    "family": "Haskayne School of Business",
+    "totalStudents": 6,
+    "female": 4,
+    "male":  2,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Petroleum Land Management",
+    "family": "Haskayne School of Business",
+    "totalStudents": 12,
+    "female": 6,
+    "male":  6,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Risk Management and Insurance",
+    "family": "Haskayne School of Business",
+    "totalStudents": 15,
+    "female": 8,
+    "male":  7,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Risk Management: Insurance and Finance",
+    "family": "Haskayne School of Business",
+    "totalStudents": 20,
+    "female": 7,
+    "male":  13,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Supply Chain Management",
+    "family": "Haskayne School of Business",
+    "totalStudents": 48,
+    "female": 21,
+    "male":  27,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Tourism Management and Marketing",
+    "family": "Haskayne School of Business",
+    "totalStudents": 7,
+    "female": 6,
+    "male":  1,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Tourism and Hospitality Management",
+    "family": "Haskayne School of Business",
+    "totalStudents": 10,
+    "female": 9,
+    "male":  1,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Kinesiology",
+    "family": "University of Calgary Undergraduate Enrolment",
+    "year": "2014-2015"
+  },
+  {
+    "name": "Athletic Therapy",
+    "family": "Kinesiology",
+    "totalStudents": 8,
+    "female": 6,
+    "male":  2,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Biomechanics",
+    "family": "Kinesiology",
+    "totalStudents": 26,
+    "female": 10,
+    "male":  16,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Exercise and Health Physiology",
+    "family": "Kinesiology",
+    "totalStudents": 100,
+    "female": 61,
+    "male":  39,
+    "year": "2014-2015"
+  },
+  {
+    "name": "General (BKin)",
+    "family": "Kinesiology",
+    "totalStudents": 318,
+    "female": 205,
+    "male":  113,
+    "year": "2014-2015"
+  },
+  {
+    "name": "General (BSc)",
+    "family": "Kinesiology",
+    "totalStudents": 142,
+    "female": 82,
+    "male":  60,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Leadership in Pedagogy and Coach",
+    "family": "Kinesiology",
+    "totalStudents": 24,
+    "female": 11,
+    "male":  13,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Mind Sciences in Kinesiology",
+    "family": "Kinesiology",
+    "totalStudents": 21,
+    "female": 16,
+    "male":  5,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Law",
+    "family": "University of Calgary Undergraduate Enrolment",
+    "year": "2014-2015"
+  },
+  {
+    "name": "Juris Doctor",
+    "family": "Law",
+    "totalStudents": 339,
+    "female": 178,
+    "male":  161,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Nursing",
+    "family": "University of Calgary Undergraduate Enrolment",
+    "year": "2014-2015"
+  },
+  {
+    "name": "Off-Site",
+    "family": "Nursing",
+    "totalStudents": 117,
+    "female": 106,
+    "male":  11,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Regular Track",
+    "family": "Nursing",
+    "totalStudents": 772,
+    "female": 684,
+    "male":  88,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Schulich School of Engineering",
+    "family": "University of Calgary Undergraduate Enrolment",
+    "year": "2014-2015"
+  },
+  {
+    "name": "Chemical Engineering",
+    "family": "Schulich School of Engineering",
+    "totalStudents": 322,
+    "female": 111,
+    "male":  211,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Civil Engineering",
+    "family": "Schulich School of Engineering",
+    "totalStudents": 365,
+    "female": 122,
+    "male":  243,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Electrical Engineering",
+    "family": "Schulich School of Engineering",
+    "totalStudents": 599,
+    "female": 122,
+    "male":  477,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Engineering",
+    "family": "Schulich School of Engineering",
+    "totalStudents": 646,
+    "female": 187,
+    "male":  459,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Geomatics Engineering",
+    "family": "Schulich School of Engineering",
+    "totalStudents": 157,
+    "female": 52,
+    "male":  105,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Mechanical Engineering",
+    "family": "Schulich School of Engineering",
+    "totalStudents": 647,
+    "female": 112,
+    "male":  535,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Oil and Gas Engineering",
+    "family": "Schulich School of Engineering",
+    "totalStudents": 146,
+    "female": 39,
+    "male":  107,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Project Management",
+    "family": "Schulich School of Engineering",
+    "totalStudents": 1,
+    "female": 0,
+    "male":  1,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Software Engineering",
+    "family": "Schulich School of Engineering",
+    "totalStudents": 153,
+    "female": 29,
+    "male":  124,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Science",
+    "family": "University of Calgary Undergraduate Enrolment",
+    "year": "2014-2015"
+  },
+  {
+    "name": "Acturial Science",
+    "family": "Science",
+    "totalStudents": 134,
+    "female": 48,
+    "male":  86,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Applied Chemistry",
+    "family": "Science",
+    "totalStudents": 5,
+    "female": 3,
+    "male":  2,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Applied Mathematics",
+    "family": "Science",
+    "totalStudents": 53,
+    "female": 20,
+    "male":  33,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Applied and Environmental Geology",
+    "family": "Science",
+    "totalStudents": 18,
+    "female": 5,
+    "male":  13,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Astrophysics",
+    "family": "Science",
+    "totalStudents": 69,
+    "female": 14,
+    "male":  55,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Biochemistry",
+    "family": "Science",
+    "totalStudents": 77,
+    "female": 42,
+    "male":  35,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Biological Sciences",
+    "family": "Science",
+    "totalStudents": 1005,
+    "female": 615,
+    "male":  390,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Botany",
+    "family": "Science",
+    "totalStudents": 10,
+    "female": 5,
+    "male":  5,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Cellular, Molecular and Microbiology",
+    "family": "Science",
+    "totalStudents": 80,
+    "female": 53,
+    "male":  27,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Chemical Physics",
+    "family": "Science",
+    "totalStudents": 4,
+    "female": 2,
+    "male":  2,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Chemistry",
+    "family": "Science",
+    "totalStudents": 356,
+    "female": 166,
+    "male":  190,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Computer Science",
+    "family": "Science",
+    "totalStudents": 672,
+    "female": 97,
+    "male":  575,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Ecology",
+    "family": "Science",
+    "totalStudents": 38,
+    "female": 30,
+    "male":  8,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Environmental Science",
+    "family": "Science",
+    "totalStudents": 172,
+    "female": 114,
+    "male":  58,
+    "year": "2014-2015"
+  },
+  {
+    "name": "General Mathematics",
+    "family": "Science",
+    "totalStudents": 74,
+    "female": 33,
+    "male":  41,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Geology",
+    "family": "Science",
+    "totalStudents": 434,
+    "female": 181,
+    "male":  253,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Geophysics",
+    "family": "Science",
+    "totalStudents": 172,
+    "female": 39,
+    "male":  133,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Natural Sciences",
+    "family": "Science",
+    "totalStudents": 497,
+    "female": 271,
+    "male":  226,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Neuroscience",
+    "family": "Science",
+    "totalStudents": 99,
+    "female": 57,
+    "male":  42,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Physics",
+    "family": "Science",
+    "totalStudents": 156,
+    "female": 31,
+    "male":  125,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Pure Mathematics",
+    "family": "Science",
+    "totalStudents": 50,
+    "female": 11,
+    "male":  39,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Statistics",
+    "family": "Science",
+    "totalStudents": 23,
+    "female": 7,
+    "male":  16,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Zoology",
+    "family": "Science",
+    "totalStudents": 70,
+    "female": 54,
+    "male":  16,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Social Work",
+    "family": "University of Calgary Undergraduate Enrolment",
+    "year": "2014-2015"
+  },
+  {
+    "name": "Social Work - Calgary",
+    "family": "Social Work",
+    "totalStudents": 135,
+    "female": 120,
+    "male":  15,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Social Work - Edmonton",
+    "family": "Social Work",
+    "totalStudents": 97,
+    "female": 78,
+    "male":  19,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Social Work - Lethbridge",
+    "family": "Social Work",
+    "totalStudents": 47,
+    "female": 43,
+    "male":  4,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Social Work - Outreach",
+    "family": "Social Work",
+    "totalStudents": 156,
+    "female": 136,
+    "male":  20,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Veterinary Medicine",
+    "family": "University of Calgary Undergraduate Enrolment",
+    "year": "2014-2015"
+  },
+  {
+    "name": "Veterinary Medicine - Calgary",
+    "family": "Veterinary Medicine",
+    "totalStudents": 123,
+    "female": 108,
+    "male":  15,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Werklund School of Education",
+    "family": "University of Calgary Undergraduate Enrolment",
+    "year": "2014-2015"
+  },
+  {
+    "name": "Early Childhood Education (Kindergarden/Elementary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 42,
+    "female": 42,
+    "male":  0,
+    "year": "2014-2015"
+  },
+  {
+    "name": "English as an Additional Language (Kindergarden/Elementary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 21,
+    "female": 17,
+    "male":  4,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Fine Arts (Kindergarden/Elementary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 7,
+    "female": 5,
+    "male":  2,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Fine Arts (Secondary",
+    "family": "Werklund School of Education",
+    "totalStudents": 40,
+    "female": 26,
+    "male":  14,
+    "year": "2014-2015"
+  },
+  {
+    "name": "French (Kindergarden/Elementary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 15,
+    "female": 13,
+    "male":  2,
+    "year": "2014-2015"
+  },
+  {
+    "name": "French (Secondary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 8,
+    "female": 8,
+    "male":  0,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Inclusive Education (Kindergarden/Elementary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 47,
+    "female": 42,
+    "male":  5,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Language Arts Education (Kindergarden/Elementary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 26,
+    "female": 21,
+    "male":  5,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Language Arts Education (Secondary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 48,
+    "female": 40,
+    "male":  8,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Mathematics (Kindergarden/Elementary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 20,
+    "female": 14,
+    "male":  6,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Mathematics (Secondary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 19,
+    "female": 10,
+    "male":  9,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Physical Education (Kindergarden/Elementary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 8,
+    "female": 6,
+    "male":  2,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Physical Education (Secondary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 20,
+    "female": 9,
+    "male":  11,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Science (Kindergarden/Elementary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 24,
+    "female": 17,
+    "male":  7,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Science (Secondary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 63,
+    "female": 42,
+    "male":  21,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Second Languages (Kindergarden/Elementary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 8,
+    "female": 8,
+    "male":  0,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Second Languages (Secondary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 8,
+    "female": 8,
+    "male":  0,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Social Studies Education (Kindergarden/Elementary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 31,
+    "female": 20,
+    "male":  11,
+    "year": "2014-2015"
+  },
+  {
+    "name": "Social Studies Education (Secondary)",
+    "family": "Werklund School of Education",
+    "totalStudents": 44,
+    "female": 28,
+    "male":  16,
+    "year": "2014-2015"
+  }
+]

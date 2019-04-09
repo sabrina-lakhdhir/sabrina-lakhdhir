@@ -89,7 +89,7 @@ function setupVis(){
 
 
     x = 50;
-    y = 130;
+    y = 570;
     k = -1;
     svg.selectAll("text")
         .data(visData)
@@ -100,7 +100,7 @@ function setupVis(){
             return facultyNames[k];
         })
         .attr("x", function(d) {
-            x = x + 20;
+            x = x + 90;
             return x
         })
         .attr("y", y)
@@ -108,8 +108,8 @@ function setupVis(){
         .attr("font-size", "10px")
         .attr("fill", "black")
         .style("text-anchor", "end")
-        .style("alignment-baseline", "left")
-        .attr("transform", "rotate(-90 -10 10)");
+        .style("alignment-baseline", "left");
+        //.attr("transform", "rotate(-90 -10 10)");
 }
 
 function setupVis2(){

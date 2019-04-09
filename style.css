@@ -43,9 +43,9 @@ body {
   ul.navbar a {
     text-decoration: none; }
   a:link {
-    color: white }
+    color: darkorchid }
   a:visited {
-    color: lavenderblush }
+    color: orchid }
   address {
     margin-top: 1em;
     padding-top: 1em;
@@ -159,10 +159,11 @@ body {
   margin-right: auto;
   opacity: 0.5;
   /*filter: alpha(opacity=50);*/
-  }
+}
+
 .img:hover {
   opacity: 1.0;
-  /*filter: alpha(opacity=100);  For IE8 and earlier */
+  /*filter: alpha(opacity=100); */
 }
 
 .img-right{
