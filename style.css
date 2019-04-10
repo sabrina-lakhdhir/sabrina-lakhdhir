@@ -43,9 +43,9 @@ body {
   ul.navbar a {
     text-decoration: none; }
   a:link {
-    color: darkorchid }
+    color: darkslategray }
   a:visited {
-    color: orchid }
+    color: plum }
   address {
     margin-top: 1em;
     padding-top: 1em;
