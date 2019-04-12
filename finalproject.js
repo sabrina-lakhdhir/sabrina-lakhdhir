@@ -106,7 +106,7 @@ function renderParentCircles(nodes) { // entire student body
                     return "black";
                 }
             })
-            .style("opacity", 0.5)
+            .style("opacity", 0.65)
             .on("click", function(nodes) {
                 onClickParent(nodes);
             })
