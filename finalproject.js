@@ -106,6 +106,7 @@ function renderParentCircles(nodes) { // entire student body
                     return "black";
                 }
             })
+            .style("opacity", 0.5)
             .on("click", function(nodes) {
                 onClickParent(nodes);
             })
@@ -165,7 +166,7 @@ function renderChildCircles(nodes) { // faculties
                 }
             }
         })
-        .style("opacity", 1)
+        .style("opacity", 0.5)
         .on("click", function(d) {
             childCounter++;
             onClickChild(nodes);
@@ -266,7 +267,7 @@ function renderBabyCircles(nodes) { // departments
                 }
             }
         })
-        .style("opacity", 1)
+        .style("opacity", 0.7)
         .on("click", function(d) {
             babyCounter++;
             onClickBaby(nodes);
@@ -300,7 +301,7 @@ function renderFemaleCircles(nodes) { // departmental gender breakdown
                 return "lightpink";
             }
         })
-        .style("opacity", 0.5)
+        .style("opacity", 0.7)
         .style("stroke-width", 1)
         //.transform("translate", "translate(0, 5)")
         .append("svg:title")
@@ -329,7 +330,7 @@ function renderMaleCircles(nodes) { // departmental gender breakdown
                 return "lightblue";
             }
         })
-        .style("opacity", 0.5)
+        .style("opacity", 0.7)
         .style("stroke-width", 1)
         //.transform("translate", "translate(10, 0)")
         .append("svg:title")
